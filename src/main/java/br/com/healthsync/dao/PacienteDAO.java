@@ -1,3 +1,4 @@
+
 package br.com.healthsync.dao;
 
 import br.com.healthsync.model.Paciente;
